@@ -1,0 +1,3 @@
+
+The script is a simple program that calculates the sum of numbers from 1 to 10. 
+It uses a loop to iterate through the numbers and accumulates the sum.
