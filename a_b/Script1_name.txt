@@ -1,3 +1,0 @@
-Keyword1: AB
-Keyword2: AC
-Keyword3: AD
