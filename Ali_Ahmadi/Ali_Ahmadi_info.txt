@@ -1,4 +1,0 @@
-Name: Ali
-Surname: Ahmadi
-Phone Number: 09175679817
-Gmail address: khaloueiamir76@gmail.com
