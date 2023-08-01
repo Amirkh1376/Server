@@ -1,0 +1,4 @@
+Keyword1: sum
+Keyword2: numbers
+Keyword3: math
+Description: this script sum 1 to 10
