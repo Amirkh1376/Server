@@ -1,4 +1,0 @@
-Keyword1: a
-Keyword2: b
-Keyword3: c
-Description: this script calculate the sum of 1 to 10
