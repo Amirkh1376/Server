@@ -1,0 +1,38 @@
+{
+  "Amirhossein_Khalouei": {
+    "Amirhossein_Khalouei_info": {
+      "Gmail address": "Khaloueiamir76@gmail.com",
+      "Name": "Amirhossein",
+      "Phone Number": "09130150189",
+      "Surname": "Khalouei "
+    },
+    "Script1_Keywords": {
+      "Keyword1": "AB",
+      "Keyword2": "BC",
+      "Keyword3": "CD"
+    },
+    "Script2_Keywords": {
+      "Keyword1": "EF",
+      "Keyword2": "GH",
+      "Keyword3": "IJ"
+    }
+  },
+  "a_b": {
+    "Script1_Keywords": {
+      "Keyword1": "KL",
+      "Keyword2": "MN",
+      "Keyword3": "AB"
+    },
+    "Script3_Keywords": {
+      "Keyword1": "OP",
+      "Keyword2": "BC",
+      "Keyword3": "GH"
+    },
+    "a_b_info": {
+      "Gmail address": "1Khaloueiamir76@gmail.com",
+      "Name": "a",
+      "Phone Number": "09228683658",
+      "b": "Khalouei "
+    }
+  }
+}
