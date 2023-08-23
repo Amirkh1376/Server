@@ -1,0 +1,4 @@
+Keyword1: FF
+Keyword2: GG
+Keyword3: AA
+Description: This is a bad script.
