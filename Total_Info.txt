@@ -5,6 +5,12 @@
             "Surname": "Khalouei",
             "Phone_Number": "09130150189",
             "Gmail Address": "khaloueiamir76@gmail.com"
+        },
+        "Script1": {
+            "Keyword1": "AA",
+            "Keyword2": "BB",
+            "Keyword3": "CC",
+            "Description": "this is a good script."
         }
     },
     "Ali_Ahmadi": {
