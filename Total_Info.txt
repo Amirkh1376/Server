@@ -33,6 +33,12 @@
             "Surname": "Karimi",
             "Phone_Number": "09178523654",
             "Gmail Address": "khaloueiamir76@gmail.com"
+        },
+        "Script3": {
+            "Keyword1": "LL",
+            "Keyword2": "AA",
+            "Keyword3": "BB",
+            "Description": "This is a average script."
         }
     }
 }
