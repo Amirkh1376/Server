@@ -65,6 +65,12 @@
             "Keyword2": "Iterate",
             "Keyword3": "Loop",
             "Description": "this is a for loop."
+        },
+        "Script5": {
+            "Keyword1": "aa",
+            "Keyword2": "df",
+            "Keyword3": "fg",
+            "Description": "this is a script."
         }
     },
     "Ali_salehi": {
